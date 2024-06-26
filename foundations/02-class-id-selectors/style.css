@@ -1,0 +1,21 @@
+.first-one {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+
+
+}
+
+.third-one{
+    font-size: 24px;
+}
+
+#hello {
+    color: blue;
+    font-size: 36px;
+}
+
+#world{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
